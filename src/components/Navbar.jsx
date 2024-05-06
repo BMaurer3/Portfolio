@@ -67,7 +67,7 @@ function Navbar() {
             </Link>
         </li>
         <li className="bg-gradient-blue-pink py-3 text-white hover:cursor-pointer items-center text-center">
-            <Link to="/contact" onClick={() => { toggleMenu(); scrollToTop(); }}>
+            <Link to="https://bento.me/bryanmaurer" onClick={() => { toggleMenu(); scrollToTop(); }}>
                 Me contacter
             </Link>
         </li>
