@@ -1,0 +1,155 @@
+[
+  {
+    "id": 1,
+    "cardTitle": "Use Case - Musée de la Marine",
+    "title": "Musée de la Marine",
+    "description": "La Porte du Musée de la Marine recèle plusieurs siècles d’histoires qui nécessitent d'être mises en valeur à travers un dispositif numérique et innovant afin d'attirer un nouveau public au musée. Pour cela, nous avons développé une visual novel sur tablette intégrée au parcours muséal, accompagnée d'une chasse au trésor.",
+    "imageUrl": "/Reaco/reaco_header.png",
+    "tags": ["User Research","User Journey", "Game Design", "Interface", "Interactive Design"],
+    "headerImage": "/assets/Reaco/reaco_header.png",
+    "headerImageMobile": "/assets/Reaco/Reaco_MHeader.png",
+    "keywords": "Création d'une éxpérience intéractive physique ET numérique",
+    "duree":"4 mois (80h+) \n  ",
+    "about": "Partenariat entre l'Université de Toulon et le Musée de la Marine. Miro / Figma / Photoshop / Illustrator / Unity",
+    "myRole": "J'ai assumé le rôle de Lead UX Designer, chargé de définir la vision du projet, son esthétique, ainsi que de mener les tests et les recherches utilisateur.",
+    "context": "La Porte du Musée de la Marine recèle plusieurs siècles d’histoires qui ont nécéssité d'être mises en valeur à travers un dispositif numérique et innovant afin d'attirer un nouveau public au musée. Pour cela, nous avons développé une visual novel sur tablette intégrée au parcours muséal, accompagnée d'une chasse au trésor.",
+    "realization": {
+      "benchmark": ["Nombreux échanges avec le commanditaire" , "Analyse du contexte et des cibles" ,"Analyse concurrentielle", "Analyse du parcours du musée","Phase d'idéation et de conceptualisation"],
+      "concept": ["Élaboration de l'identité graphique", "Définition du parcours de l'activité", "Création de wireframes basse-fidélité", "Sélection du format (Visual Novel) ", "UX Writing, optimisation du contenu"],
+      "prototype": ["Création des maquettes 3D", "Prototypage des différents actes ", "Créations de supports de communication", "Sound Design pour Proof of Concept final"]
+    },
+    "identityVisualText": "Les Défis de la Création d'un Dispositif Numérique dans le Contexte Muséal",
+    "visualIdentity": "Ce projet a débuté par une phase approfondie de recherche, visant à comprendre les comportements des visiteurs du musée. Ensuite, comme c'est fréquemment le cas dans ce contexte, nous avons été confrontés au défi de convertir l'aspect culturel en une expérience ludique intégrée au dispositif.",
+    "visualImage": "/assets/Reaco/reaco_bento.webp",
+    "sectionSubtitle":"Customer journey",
+    "sectionTitle":"Concept et intégration au parcours",
+    "sectionUnder1":"Jeu de piste",
+    "sectionUnder2":"Visual Novel sur Tablette",
+    "Empathy": {
+        "body": "Le musée offre un parcours chronométré pour ses visiteurs, souvent en groupe, parcourant ses nombreuses œuvres.  Notre expérience immersive permet un apprentissage actif et ludique ce qui offre un engagement plus grand de la part des visiteurs.",
+      "benchmark": "La première étape de l'expérience consiste en un jeu de piste.  Des indices sont stratégiquement répartis dans le musée, créant ainsi un parcours logique menant le visiteur jusqu'à la tablette. L'intérêt de cette approche est de stimuler l'interaction et l'engagement des visiteurs tout en leur permettant de découvrir différentes parties du musée.",
+      "userMaintenance": "Dans la seconde phase, les visiteurs du musée seront immergés dans une Visual Novel sur tablette où ils découvriront l'histoire de la Porte racontée par ses constructeurs. Ce jeu, conçu pour plusieurs joueurs, offre également des mini-jeux qui permettront aux participants de devenir acteurs de l'histoire.     ",
+      "Image": "/assets/Reaco/reaco_7.png"
+    },
+    "titlegallery":"Quelques images du projet",
+    "prototypeHighFi": "Et si ca ne vous suffit pas la vidéo Proof Of Concept est disponible sur mon Dribble",
+    "galleryLeftSide":[
+      "/assets/Reaco/Gallery-1.png",
+      "/assets/Reaco/Gallery-3.png"
+    ],
+    "galleryRightSide":[
+      "/assets/Reaco/Gallery-2.png",
+      "/assets/Reaco/Gallery-4.png"
+    ],
+    "result":{
+      "remember": "Je suis extrêmement satisfait de notre collaboration avec le Musée de la Marine. Leur engagement pour l'innovation et leur compréhension approfondie des utilisateurs ont été essentiels. Je tiens à remercier chaleureusement mon équipe pour son implication cruciale malgré un délai de production serré de deux semaines. Cette expérience de travail a été enrichissante.",
+      "userTestimonial": "Le commanditaire a été très satisfait du projet et a choisi de conserver notre idée pour la développer au sein d’une agence.",
+      "feedback": "Découvrez le prototype Figma ci-dessus. Une vidéo Proof of Concept est également disponible sur mon Dribbble.",
+      "image": "/assets/Reaco/reaco-result.png",
+      "conclusiontitle1":"Testez-le vous même ⬆️",
+      "conclusiontitle2":"Retour commanditaire",
+      "link":"https://www.figma.com/proto/tbgBPWXPbdGjEEA4D6DMeB/WireFrame-Jeu-de-la-Porte?node-id=177-15170&starting-point-node-id=177%3A15170&scaling=scale-down&t=Ihf61OVqz1MY59hM-1&mode=design"
+
+    }
+  },{
+    "id": 2,
+    "cardTitle": "Vinyle Records - App Design",
+    "title": "Vinyle Records - App Design",
+    "description": "Vinyle Records est une application spécialisée dans la musique, particulièrement axée sur la culture du vinyle et l'écoute en High-Fidelity. Elle s'adresse aussi bien aux spécialistes qu'aux amateurs, et propose une plateforme d'achat.",
+    "imageUrl": "/VR/vr_header.png",
+    "tags": ["User Interface", "UX", "App Design","Interactive Design","Prototyping"],
+    "headerImage": "/assets/VR/vr_header.png",
+    "headerImageMobile": "/assets/VR/VR_MHeader.png",
+    "keywords": "Développement de concept, création d'identité graphique et prototypage d'application high-fidelity",
+    "duree":"Une semaine (10h+) \n  Miro / Figma ",
+    "about": "Ce projet a été réalisé dans le cadre de mes études.",
+    "myRole": "Pour ce projet, j’ai assumé le rôle d’UI Designer au sein d’une équipe de trois personnes.",
+    "context": "Vinyle Records est une application spécialisée dans la musique, particulièrement axée sur la culture du vinyle et l'écoute en High-Fidelity. Elle s'adresse aussi bien aux spécialistes qu'aux amateurs, et propose une plateforme d'achat.",
+   "realization": { 
+      "benchmark": ["Analyse de la demande","Analyse concurrentielle ", "Identification des besoins et des comportements des utilisateurs principaux"],
+      "concept": ["Détermination des segments de marché à cibler en priorité ","Conception de l’identité graphique", "Création du design system"],
+      "prototype": ["Conception de l’interface", "Prototypage", "Animation"]
+    },
+    "identityVisualText": "L'interface au service des produits",
+    "visualIdentity": "La réflexion a porté sur la création d'interfaces claires mettant en valeur les produits et les rendant accessibles. De plus, le tunnel d'achat a été réduit au minimum et les produits peuvent être appréciés et commentés pour favoriser un esprit communautaire.",
+    "visualImage": "/assets/VR/vinyl_bento.webp",
+    "sectionSubtitle":"Retenir l'utilisateur",
+    "sectionTitle":"Les fonctionnalités",
+    "sectionUnder1":"Personnalisation",
+    "sectionUnder2":"Communauté",
+    "Empathy": {
+      "body": "L'un des aspects essentiels de la conception de cette application, tout comme pour toutes les applications e-commerce, est de permettre une navigation intuitive entre les produits. Il est crucial d'éliminer les barrières entre les utilisateurs et les produits qu'ils désirent, en offrant une expérience fluide et sans effort de recherche et de découverte.        ",
+      "benchmark": "L'application vise à cerner les intérêts de l'utilisateur pour lui recommander des produits adaptés à son profil, y compris des produits associés.",
+      "userMaintenance": "Dans notre application e-commerce vinyle, les avis et notes des utilisateurs encouragent une communauté partageant les mêmes intérêts musicaux.",
+      "Image": "/assets/VR/vinyl_4.webp"
+    },
+    "titlegallery":"Prototypage High-Fidelity",
+    "prototypeHighFi": "Exclusivement conçue pour être disponible sur mobile, voici à quoi ressemble cette application.",
+    "galleryLeftSide":[
+      "/assets/VR/Gallery-1.png",
+      "/assets/VR/Gallery-3.png"
+    ],
+    "galleryRightSide":[
+      "/assets/VR/Gallery-2.png",
+      "/assets/VR/Gallery-4.png"
+    ],  
+    "result":{
+      "remember": "Travailler sur une application est vraiment ma passion en matière d'UI. Construire un système de design complet et concevoir de nouvelles fonctionnalités est super excitant. C'est pour moi l'essence même de l'expérience utilisateur : améliorer sans cesse un produit et faire évoluer son utilisation.        ",
+      "userTestimonial": "Vive la création d'appli        ",
+      "feedback": "Rendez-vous sur le proto Figma pour testez par vous-même",
+      "image": "/assets/VR/VR_action.png",
+      "conclusiontitle1":"Testez-le vous même ⬆️",
+      "conclusiontitle2":"App Design 🔥",
+      "link":"https://www.figma.com/proto/UDu51XymARWGk4fqcWFP1a/Vinyle-Records-Mobile?page-id=4%3A1&type=design&node-id=648-251&viewport=-769%2C260%2C0.31&t=a2XG1iPonzpejGai-1&scaling=scale-down&starting-point-node-id=648%3A251&mode=design"
+    }
+  },{
+      "id": 3,
+      "cardTitle": "LaSalle - User Interface",
+      "title": "LaSalle - User Interface",
+      "description": "LaSalle est un projet fictif qui aspire à créer une salle de sport offrant un accompagnement sur mesure adapté à une variété de profils. Cette vision repose sur une approche inclusive, accueillant aussi bien les débutants que les experts, ainsi que les personnes en situation de handicap.",
+      "imageUrl": "LaSalle.webp",
+      "tags": ["User Interface","Responsive Design", "User Journey", "User Research"],
+      "headerImage": "/assets/LaSalle.webp",
+      "headerImageMobile": "/assets/LaSalle_MHeader.png",
+      "keywords": "Création d'identité graphique et design de site web responsive.",
+      "myRole": "Product Designer (UI)",       "context": "LaSalle est un projet qui aspire à créer une salle de sport offrant un accompagnement sur mesure adapté à une variété de profils. Cette vision repose sur une approche inclusive, accueillant aussi bien les débutants que les experts, ainsi que les personnes en situation de handicap.",
+      "duree":"Deux semaines(15h+)",
+      "about": "Miro / Figma / Photoshop - Projet fictif réalisé dans le cadre de mes études",
+      "realization": {
+        "benchmark": ["Analyse concurrentielle ", "Analyse des cibles primaires et secondaires", "Benchmark des best practices du secteur"],  
+        "prototype": ["Conception de l’identité graphique", "Création de l'architecture web(sitemap)", "Wireframes low-fi des pages du site", "Création des mockups (maquettes HD) ", "UX Writing, optimisation des contenus rédactionnels"]
+      },
+      "identityVisualText": "Création d’une identité de marque validée par l'identité visuelle",
+      "visualIdentity": "L'identité visuelle de LaSalle, reflétant son engagement envers l'inclusivité et la polyvalence dans le fitness, renforce sa position en tant que destination inspirante et accueillante, tout en intégrant le dynamisme et la jeunesse mis en avant à travers ses couleurs.",
+      "visualImage": "/assets/LaSalle-Visual.webp",
+      "sectionSubtitle":"User research",
+      "sectionTitle":"Pour qui, pourquoi ? ",
+      "sectionUnder1":"Benchmark",
+      "sectionUnder2":"User Entretien",
+      "Empathy": {
+        "body": "Nous avons commencé par de nombreuses recherches pour en apprendre plus sur le marché de la musculation ainsi que sur ses consommateurs. Nous avons pu en tirer des pratiques primordiales à inclure ainsi que des points clés sur lesquels travailler.  ",
+        "benchmark": "Notre analyse concurrentielle a guidé l'élaboration d'une stratégie solide, garantissant à LaSalle une position inspirante et compétitive dans le secteur du fitness..        ",
+        "userMaintenance": "Les tests utilisateurs ont joué un rôle crucial dans l'identification des points forts ainsi que des axes d'amélioration de notre interface, ce qui nous a permis d'ajuster et d'améliorer en permanence l'expérience proposée par LaSalle.",
+        "Image": "/assets/LaSalle-Empathy.webp"
+      },
+      "titlegallery":"Interface responsive et accessible",
+      "prototypeHighFi": "Après avoir mené nos recherches, nous avons entrepris la création des premiers écrans du prototype",
+      "galleryLeftSide":[
+        "/assets/LaSalle-gallery-1.webp",
+        "/assets/LaSalle-gallery-2.webp"
+      ],
+      "galleryRightSide":[
+        "/assets/LaSalle-gallery-3.webp",
+        "/assets/LaSalle-gallery-4.webp"
+      ],
+      "result":{
+        "remember": "LaSalle a été un projet qui a fusionné ma passion pour le fitness avec mon travail, offrant une expérience enrichissante. Il m'a également permis d'explorer de nouvelles perspectives en matière de design et d'engagement, notamment en abordant l'inclusion des personnes en situation de handicap. ",
+        "userTestimonial": "Les participants ont apprécié la facilité d'utilisation des formulaires et l'accès rapide à l'information.        ",
+        "feedback": "'Un design qui suscite l'envie à la fois par son concept et son esthétique.'",
+        "image": "/assets/lasalle_end.png",
+        "conclusiontitle1":"Retour Client",
+        "conclusiontitle2":"Témoignage Utilisateur"
+      }
+    }
+  ]
+  
