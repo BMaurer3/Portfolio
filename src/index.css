@@ -66,9 +66,10 @@ body {
   /* height: 50px; */
   padding: 5px 12px;
   border: double 1px transparent;
-  border-radius: 20px;
+  border-radius: 10px;
   background-image: linear-gradient(#F4EFE4, #F4EFE4), linear-gradient(  #0252FF, #FF08FF);
   background-origin: border-box;
+  font-weight: 400;
   background-clip: padding-box, border-box;
 }
 .container{
