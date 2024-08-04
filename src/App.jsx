@@ -34,8 +34,7 @@ function App() {
                             UX/UI <br /> Designer
                         </h3>
                         <p className="max-w-lg text-base pb-4">
-                            Passionné par le web, j&apos;ai pour ambition d&apos;imaginer les <strong>interfaces</strong> de demain et j&apos;y met toute mon énergie. Je met l&apos;<strong>utilisateur</strong> au centre de mon attention.
-                        </p>
+                        Ce que j’aime, c’est imaginer et concevoir des solutions sur mesure pour les <strong>utilisateurs</strong>, tout en prenant en compte les objectifs <strong>business</strong> des clients. Je mets mon <strong>empathie</strong> et mes compétences à votre service.                        </p>
                         <GradientButton
                             onClick={scrollToProjects}
                             content="Découvrir mes projets ↓ "
@@ -51,8 +50,8 @@ function App() {
                     </h3>
                     <p className="text-sm hidden sm:block ">
                         Découvrez plusieurs projets auxquels j&apos;ai apporté ma
-                        contribution en tant qu&apos;UX Designer/Manager, Web Designer ou
-                        même Développeur Web.
+                        contribution en tant que <strong>Product Manager/Designer</strong>, <strong>UX/UI Designer</strong> ou
+                        même Développeur <strong>Web</strong>.
                     </p>
                 </div>
                 <div className="flex flex-wrap gap-16 lg:gap-24 justify-center max-h-md lg:mx-24 ">
@@ -107,7 +106,7 @@ function App() {
                                 Avec une solide maîtrise du design d&apos;expérience utilisateur, je combine une compréhension approfondie des <strong>méthodes</strong> <strong>UX</strong> avec des <strong>compétences techniques avancées</strong>.
                                 <br />
                                 <br />
-                                Mon objectif est de concevoir des interfaces à la fois intuitives et captivantes, garantissant des expériences utilisateur <strong>optimales</strong>.            
+                                Mon objectif est de concevoir des produits à la fois intuitifs et captivants, garantissant des expériences utilisateur <strong>optimales</strong>.            
                             </p>
                         </div>
                         <div className="flex flex-col mb-8 md:flex-row justify-between md:max-w-lg  md:gap-0"></div>

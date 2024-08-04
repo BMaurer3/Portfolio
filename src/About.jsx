@@ -27,10 +27,9 @@ function About() {
                     <div className="flex flex-col gap-6">
                         <p className="text-base">Bonjour et bienvenue sur mon portfolio !</p>
                         <p className="text-base leading-6">
-                        À 23 ans, ma grande <strong>empathie</strong> est mon atout numéro un en tant qu'<strong>UX Designer</strong>. Mon objectif est de vous comprendre afin de créer le meilleur projet possible&nbsp;.
-                        </p>
+                        À 24 ans, ma capacité à <strong>comprendre</strong>  les autres est mon principal atout en tant qu’UX Designer. Mon but est de <strong>collaborer</strong> étroitement pour concevoir ensemble des solutions innovantes qui simplifient et <strong>améliorent</strong> la vie des utilisateurs.</p>
                         <p className="text-base leading-6 mb-7">
-                            Je vous invite à parcourir certains de mes projets et à découvrir qui je suis. N'hésitez pas à me contacter si vous avez des questions, je suis à votre <strong>service</strong>&nbsp;  !   </p>
+                        Je vous encourage à <strong>explorer</strong> quelques-uns de mes travaux et à en apprendre davantage sur moi. Pour toute question, n’hésitez pas à me <strong>contacter</strong> — je suis là pour vous aider !</p>
 
                         <div className="flex gap-5">
                             <GradientButton
@@ -58,7 +57,7 @@ function About() {
                             </h3>
                             <p className="text-base">
                             Je maîtrise un large éventail de logiciels pour mener à bien les projets UX/UI. Étant donné que ce domaine est en constante <strong>évolution</strong>, je reste régulièrement informé des nouveaux outils utilisés dans le secteur. Cette <strong>veille</strong> me permet de mieux les comprendre et d'assimiler rapidement de nouveaux logiciels. <br/><br/>
-                            Cela fait maintenant <strong>5 ans</strong> depuis que j'ai conçu mon premier projet web. Depuis, mon objectif n'a jamais changé : perfectionner mes compétences pour concevoir tous les projets avec une précision au <strong>pixel près.</strong>
+                            Cela fait maintenant <strong>5 ans</strong> depuis que j'ai conçu mon premier projet web. Depuis, mon objectif n'a jamais changé : Participer activement à la conception de solution qui sont <strong>utilisable</strong>, <strong>utilisé</strong> et <strong>agréable</strong> à utiliser.
 
                             </p>
                         </div>
@@ -112,7 +111,7 @@ function About() {
         />
         <FAQItem
             question={'Ce que je cherche chez vous ?'}
-            answer={"Ce que je valorise le plus, c'est votre engagement et votre connaissance de votre projet. Selon moi, l'essentiel en UX est de faire des choix clairs et de s'adapter constamment. L'echec n'est qu'une étape dans le perfectionnement de votre produit/services"}
+            answer={"Ce que je valorise le plus, c'est que toutes les parties aient la possibilité de proposer des idées. Selon moi, l'essentiel en UX est de faire des choix clairs et de s'adapter constamment. L'echec n'est qu'une étape dans le perfectionnement de votre produit/service."}
         />
     </div>
 </div>

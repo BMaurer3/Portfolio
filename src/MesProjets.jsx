@@ -16,7 +16,7 @@ function MesProjets() {
                         Tous mes projets
                     </h3>
                     <p className="lg:text-body text-sm sm:block ">
-                    Découvrez ici plusieurs de mes projets en détail. Pour en voir davantage, je mets régulièrement à jour ma page <a href="https://dribbble.com/BryanDesign" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">Dribbble</a>. Vous pouvez également me contacter via les liens du footer ou le menu de navigation pour en savoir plus.
+                    Découvrez ici plusieurs de mes projets en détail. Pour en voir davantage, je mets régulièrement à jour ma page <a href="https://www.behance.net/bryanmaurer" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">Behance</a>. Vous pouvez également me contacter via les liens du footer ou le menu de navigation pour en savoir plus.
                     </p>
                 </div>
             {/* PROJECTS CARDS */}
