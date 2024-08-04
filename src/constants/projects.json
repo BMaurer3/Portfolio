@@ -3,20 +3,20 @@
     "id": 1,
     "cardTitle": "Use Case - Musée de la Marine",
     "title": "Musée de la Marine",
-    "description": "La Porte du Musée de la Marine recèle plusieurs siècles d’histoires qui nécessitent d'être mises en valeur à travers un dispositif numérique et innovant afin d'attirer un nouveau public au musée. Pour cela, nous avons développé une visual novel sur tablette intégrée au parcours muséal, accompagnée d'une chasse au trésor.",
+    "description": "Projet réalisé en collaboration avec le musée, qui a renforcé mes compétences en gestion de projet sous pression et affirmé mon leadership dans la conception de solutions innovantes. En seulement deux semaines, j’ai dirigé une équipe, conçu des wireframes, mené des entretiens, et développé un prototype fonctionnel, le tout dans des délais serrés.",
     "imageUrl": "/Reaco/reaco_header.png",
-    "tags": ["User Research","User Journey", "Game Design", "Interface", "Interactive Design"],
+    "tags": ["User Research","User Journey", "Game Design", "User Interface", "Interactive Design"],
     "headerImage": "/assets/Reaco/reaco_header.png",
     "headerImageMobile": "/assets/Reaco/Reaco_MHeader.png",
     "keywords": "Création d'une éxpérience intéractive physique ET numérique",
-    "duree":"4 mois (80h+) \n  ",
-    "about": "Partenariat entre l'Université de Toulon et le Musée de la Marine. Miro / Figma / Photoshop / Illustrator / Unity",
-    "myRole": "J'ai assumé le rôle de Lead UX Designer, chargé de définir la vision du projet, son esthétique, ainsi que de mener les tests et les recherches utilisateur.",
-    "context": "La Porte du Musée de la Marine recèle plusieurs siècles d’histoires qui ont nécéssité d'être mises en valeur à travers un dispositif numérique et innovant afin d'attirer un nouveau public au musée. Pour cela, nous avons développé une visual novel sur tablette intégrée au parcours muséal, accompagnée d'une chasse au trésor.",
+    "duree":"4 mois (80h+) \n",
+    "about": "Partenariat entre l'Université de Toulon et le Musée de la Marine.",
+    "myRole": "En tant que Lead UX Designer, j’ai dirigé la vision conceptuelle du projet, supervisé la création de prototypes, et réalisé des tests utilisateurs pour optimiser l’interface et l’expérience.",
+    "context": "Notre objectif était de valoriser une œuvre encore oubliée du Musée de la Marine en y intégrant une dimension numérique pour attirer un nouveau public. Pour y parvenir, nous avons conçu un dispositif numérique unique : une visual novel sur tablette intégrée au parcours muséal, enrichie d’une chasse au trésor. Cette approche interactive visait à rendre l’histoire maritime plus accessible et engageante pour tous.",
     "realization": {
-      "benchmark": ["Nombreux échanges avec le commanditaire" , "Analyse du contexte et des cibles" ,"Analyse concurrentielle", "Analyse du parcours du musée","Phase d'idéation et de conceptualisation"],
-      "concept": ["Élaboration de l'identité graphique", "Définition du parcours de l'activité", "Création de wireframes basse-fidélité", "Sélection du format (Visual Novel) ", "UX Writing, optimisation du contenu"],
-      "prototype": ["Création des maquettes 3D", "Prototypage des différents actes ", "Créations de supports de communication", "Sound Design pour Proof of Concept final"]
+      "benchmark": ["Nombreux échanges avec le commanditaire" , "Analyse du contexte et des cibles" ,"Analyse concurrentielle", "Analyse du parcours du musée"],
+      "concept": ["Définition du parcours de l'activité", "Création de wireframes basse-fidélité", "Sélection du format (Visual Novel) ", "UX Writing, optimisation du contenu"],
+      "prototype": ["Création des maquettes 3D", "Prototypage des différents actes ", "Créations de supports de communication", "Création d'un Proof of Concept (vidéo)"]
     },
     "identityVisualText": "Les Défis de la Création d'un Dispositif Numérique dans le Contexte Muséal",
     "visualIdentity": "Ce projet a débuté par une phase approfondie de recherche, visant à comprendre les comportements des visiteurs du musée. Ensuite, comme c'est fréquemment le cas dans ce contexte, nous avons été confrontés au défi de convertir l'aspect culturel en une expérience ludique intégrée au dispositif.",
@@ -27,12 +27,12 @@
     "sectionUnder2":"Visual Novel sur Tablette",
     "Empathy": {
         "body": "Le musée offre un parcours chronométré pour ses visiteurs, souvent en groupe, parcourant ses nombreuses œuvres.  Notre expérience immersive permet un apprentissage actif et ludique ce qui offre un engagement plus grand de la part des visiteurs.",
-      "benchmark": "La première étape de l'expérience consiste en un jeu de piste.  Des indices sont stratégiquement répartis dans le musée, créant ainsi un parcours logique menant le visiteur jusqu'à la tablette. L'intérêt de cette approche est de stimuler l'interaction et l'engagement des visiteurs tout en leur permettant de découvrir différentes parties du musée.",
-      "userMaintenance": "Dans la seconde phase, les visiteurs du musée seront immergés dans une Visual Novel sur tablette où ils découvriront l'histoire de la Porte racontée par ses constructeurs. Ce jeu, conçu pour plusieurs joueurs, offre également des mini-jeux qui permettront aux participants de devenir acteurs de l'histoire.     ",
+      "benchmark": "La première étape de l’expérience impliquait une épreuve physique : un jeu de piste avec des indices dissimulés dans le parcours du musée. Ce circuit logique menait à une récompense numérique, intégrant ainsi la technologie pour enrichir l’engagement des visiteurs et leur exploration des lieux.",
+      "userMaintenance": "Dans la seconde phase, les visiteurs plongeraient dans une Visual Novel sur tablette, où l’histoire de la Porte leur serait narrée par ses fondateurs. Conçu pour le jeu en groupe, ce dispositif intégrerait des mini-jeux qui transformeraient les participants en véritables acteurs de l’histoire, enrichissant ainsi leur expérience immersive.",
       "Image": "/assets/Reaco/reaco_7.png"
     },
     "titlegallery":"Quelques images du projet",
-    "prototypeHighFi": "Et si ca ne vous suffit pas la vidéo Proof Of Concept est disponible sur mon Dribble",
+    "prototypeHighFi": "Et si ca ne vous suffit pas le prototype est disponible en bas de page ⬇️",
     "galleryLeftSide":[
       "/assets/Reaco/Gallery-1.png",
       "/assets/Reaco/Gallery-3.png"
@@ -42,9 +42,9 @@
       "/assets/Reaco/Gallery-4.png"
     ],
     "result":{
-      "remember": "Je suis extrêmement satisfait de notre collaboration avec le Musée de la Marine. Leur engagement pour l'innovation et leur compréhension approfondie des utilisateurs ont été essentiels. Je tiens à remercier chaleureusement mon équipe pour son implication cruciale malgré un délai de production serré de deux semaines. Cette expérience de travail a été enrichissante.",
+      "remember": "Je suis très content de l’expérience acquise lors de ce projet, notamment grâce à la collaboration efficace entre mon équipe et celle du musée, malgré des délais de production de seulement deux semaines. Cette période intense a non seulement renforcé mes compétences en gestion de projet sous pression mais a aussi affirmé mon leadership et mon aptitude à concevoir des solutions innovantes.",
       "userTestimonial": "Le commanditaire a été très satisfait du projet et a choisi de conserver notre idée pour la développer au sein d’une agence.",
-      "feedback": "Découvrez le prototype Figma ci-dessus. Une vidéo Proof of Concept est également disponible sur mon Dribbble.",
+      "feedback": "Découvrez le prototype Figma ci-dessus. Une vidéo Proof of Concept est également disponible sur ma page Behance.",
       "image": "/assets/Reaco/reaco-result.png",
       "conclusiontitle1":"Testez-le vous même ⬆️",
       "conclusiontitle2":"Retour commanditaire",
@@ -55,22 +55,22 @@
     "id": 2,
     "cardTitle": "Vinyle Records - App Design",
     "title": "Vinyle Records - App Design",
-    "description": "Vinyle Records est une application spécialisée dans la musique, particulièrement axée sur la culture du vinyle et l'écoute en High-Fidelity. Elle s'adresse aussi bien aux spécialistes qu'aux amateurs, et propose une plateforme d'achat.",
+    "description": "Projet de conception d’une application e-commerce spécialisée dans la musique, axée sur la culture du vinyle et l’écoute en High-Fidelity, qui a renforcé mes compétences en design graphique et en création rapide de prototypes. En tant qu’UI Designer, j’ai dirigé la vision graphique, créé le prototype sur FIGMA, et assuré la cohérence esthétique.",
     "imageUrl": "/VR/vr_header.png",
     "tags": ["User Interface", "UX", "App Design","Interactive Design","Prototyping"],
     "headerImage": "/assets/VR/vr_header.png",
     "headerImageMobile": "/assets/VR/VR_MHeader.png",
     "keywords": "Développement de concept, création d'identité graphique et prototypage d'application high-fidelity",
-    "duree":"Une semaine (10h+) \n  Miro / Figma ",
+    "duree":"Une semaine (10h+)",
     "about": "Ce projet a été réalisé dans le cadre de mes études.",
-    "myRole": "Pour ce projet, j’ai assumé le rôle d’UI Designer au sein d’une équipe de trois personnes.",
-    "context": "Vinyle Records est une application spécialisée dans la musique, particulièrement axée sur la culture du vinyle et l'écoute en High-Fidelity. Elle s'adresse aussi bien aux spécialistes qu'aux amateurs, et propose une plateforme d'achat.",
+    "myRole": "En tant qu'UI Designer, j'ai été le responsable de la vision graphique et de la création du prototype sur FIGMA",
+    "context": "L’objectif du projet était de développer une application e-commerce pour les amateurs de vinyles et d’audio High-Fidelity, en privilégiant une expérience utilisateur fluide et intuitive. En tant qu’UI Designer, j’ai effectué des recherches approfondies sur les utilisateurs et conçu des wireframes/prototypes sur FIGMA pour assurer une approche centrée utilisateur.",
    "realization": { 
       "benchmark": ["Analyse de la demande","Analyse concurrentielle ", "Identification des besoins et des comportements des utilisateurs principaux"],
-      "concept": ["Détermination des segments de marché à cibler en priorité ","Conception de l’identité graphique", "Création du design system"],
-      "prototype": ["Conception de l’interface", "Prototypage", "Animation"]
+      "concept": ["Définition des besoins","Conception de l’identité graphique", "Création du design system", "Conception de wireframe"],
+      "prototype": ["Prototypage","Mise en place des différentes fonctionnalités", "Animation","Test"]
     },
-    "identityVisualText": "L'interface au service des produits",
+    "identityVisualText": "L'interface au service des utilisateurs  ",
     "visualIdentity": "La réflexion a porté sur la création d'interfaces claires mettant en valeur les produits et les rendant accessibles. De plus, le tunnel d'achat a été réduit au minimum et les produits peuvent être appréciés et commentés pour favoriser un esprit communautaire.",
     "visualImage": "/assets/VR/vinyl_bento.webp",
     "sectionSubtitle":"Retenir l'utilisateur",
@@ -94,7 +94,7 @@
       "/assets/VR/Gallery-4.png"
     ],  
     "result":{
-      "remember": "Travailler sur une application est vraiment ma passion en matière d'UI. Construire un système de design complet et concevoir de nouvelles fonctionnalités est super excitant. C'est pour moi l'essence même de l'expérience utilisateur : améliorer sans cesse un produit et faire évoluer son utilisation.        ",
+      "remember": "Ma passion pour l’UI brille particulièrement quand je développe des fonctionnalités innovantes pour des applications. Spécialisé dans la compréhension approfondie des besoins des utilisateurs, je m’applique à concevoir des solutions qui améliorent directement leur expérience. Ce processus créatif, de la conception initiale jusqu’à l’implémentation, me permet de transformer des idées en fonctionnalités pratiques et engageantes, garantissant une utilisation optimisée du produit.",
       "userTestimonial": "Vive la création d'appli        ",
       "feedback": "Rendez-vous sur le proto Figma pour testez par vous-même",
       "image": "/assets/VR/VR_action.png",
